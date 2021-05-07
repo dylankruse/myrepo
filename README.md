@@ -1,2 +1,2 @@
 # myrepo
-This repository contains the three projects I completed during the Spring 2021 semester in SDS 348.
+This repository contains the three projects I completed during the Spring 2021 semester in SDS 348. Project One is titled "Admissions and Diversity Across U.S. Universities and Colleges" and focuses on the relationships which exist between a school's diversity markers and their exclusivity, dervied from admission statistics. Project Two is titles "Individual's Attributes and Their Effect on Annual Health Insurance Charges" and looks into creating multiple different models which potentially predict an individual's insurance charges based on their attributes such as BMI.
